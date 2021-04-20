@@ -1,0 +1,4 @@
+-e git+https://github.com/joatmon08/gcp-tags-module.git@v1.0.0#egg=tags
+-e git+https://github.com/joatmon08/gcp-network-module.git@v1.0.0#egg=network
+pytest==6.2.2
+autopep8==1.5.5

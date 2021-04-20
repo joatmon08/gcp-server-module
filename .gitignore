@@ -1,0 +1,4 @@
+__pycache__
+.pytest_cache
+.terraform.lock.hcl
+main.tf.json
